@@ -1,5 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://zyuce.github.io/personal_site/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Liangce Site'
 publishDir = 'docs'
 

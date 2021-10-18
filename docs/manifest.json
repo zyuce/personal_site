@@ -1,0 +1,15 @@
+{
+  "name": "Liangce Site",
+  "short_name": "Liangce Site",
+  "start_url": "/personal_site/",
+  "scope": "/personal_site/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/personal_site/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
