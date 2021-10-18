@@ -2,4 +2,4 @@ baseURL = 'https://zyuce.github.io/personal_site/'
 languageCode = 'en-us'
 title = 'Liangce Site'
 publishDir = 'docs'
-
+theme = 'mini'
